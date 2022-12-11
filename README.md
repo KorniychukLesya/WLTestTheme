@@ -1,7 +1,7 @@
 # WLTestTheme
 
-## Theme Name: WLTestTheme
-## Author: Lesya
+ Theme Name: WLTestTheme
+ Author: Lesya Korniychuk
 
 ## Description: 
 This theme is perfect for a car shop.
